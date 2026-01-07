@@ -1,0 +1,177 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar {
+    background-color: #327D45;
+}
+
+.banner {
+    background: url(kumpulan-gambar/gambar\ sekolah\ .jpg) no-repeat center center; 
+    background-size: cover;
+    padding-top: 10%;
+    padding-bottom: 10%; 
+    
+}
+
+.banner .asah{
+    color: #E9DCB2;
+}
+
+.fasilitas {
+    background-color: #E9DCB2;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.fasilitas .tempat {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.sambutan {
+    background-color: #327D45;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.sambutan .awal {
+    color: #E9DCB2;
+}
+
+.sambutan .akhir {
+    color: #E9DCB2;
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+.btn-primary {
+    background-color: #77C886 !important;
+    border: none !important;
+}
+
+.btn-primary:focus {
+    box-shadow: none !important;
+}
+
+.visi {
+    background-color: #E9DCB2;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.prestasi {
+    background-color: #327D45;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.text-info {
+    color: #E9DCB2 !important;
+}
+
+.lokasi {
+    background-color: #E9DCB2;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.alamat {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.footer {
+    background-color: #327D45;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.bg-secondary {
+    background-color: #327D45 !important;
+}
+
+.text-warning {
+    color: #E9DCB2 !important;
+}
+
+.logo {
+    width: 70px;
+    height: 65px;
+}
+
+.about {
+    padding-bottom: 20px;
+}
+
+.contact {
+    padding-bottom: 20px;
+}
+
+.information {
+    padding-bottom: 20px;
+}
+
+.nama {
+    padding-bottom: 20px;
+}
+
+.card {
+    margin-left: 20px;
+}
+
+.berita {
+    margin: 20px 20px;
+}
+
+.search-container {
+    display: flex;
+    align-items: center;
+}
+.search-icon {
+    margin-right: 8px; /* Memberi jarak antara ikon dan input */
+    font-size: 18px; /* Sesuaikan ukuran ikon */
+}
+.search-input {
+    width: 200px; /* Sesuaikan lebar input */
+    padding: 5px;  /* Tambahkan padding untuk tampilan yang lebih baik */
+}
+
+.btn-secondary {
+    background-color: #327D45 !important;
+    border: none !important;
+}
+
+.btn-secondary:focus {
+    box-shadow: none !important;
+}
+
+.misi ul {
+    list-style-position: inside; 
+    padding: 0px;
+    margin: 0 auto;
+    text-align: center;      
+    max-width: 30px;         
+    margin: 0 auto;           
+    text-align: left;  
+    font-size: 1em;
+    padding-left: 90px;
+    max-width: 1000px; 
+    list-style-type: disc;
+}
+.rounded-img {
+    border-radius: 10%;
+}
+.text-justify {
+    text-align: justify;
+}
+.text-justify-custom {
+    text-align: justify; 
+    text-align-last: center;
+}
